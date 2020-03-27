@@ -4,7 +4,7 @@ import Input from '@material-ui/core/Input';
 import FormLabel from '@material-ui/core/FormLabel';
 import Paper from '@material-ui/core/Paper';
 import Grid from '@material-ui/core/Grid';
-import './App.css';
+import '../App.css';
 export default class Register extends Component {
     render() {
         return (
